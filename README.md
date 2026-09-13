@@ -20,6 +20,27 @@
 
 <br>
 
+### `$ whoami`
+
+```javascript
+const vignesh = {
+  role:       "Full-Stack Engineer",
+  focus:      ["Interactive web apps", "DSA"],
+  currently:  "Building full-stack apps with React, Node.js & UI libraries",
+  vibeCoding: true, // idea -> deployed product, fast
+  dsa:        "C++ - Leetcode - patterns",
+  education:  "B.Tech CSE @ VNR VJIET (2024-2028)",
+  contact:    "vigneshraopeggarla@gmail.com",
+  portfolio:  "https://myportfolio-nine-bay-38.vercel.app"
+};
+```
+
+<br>
+
+---
+
+<br>
+
 <h3>🛠 Tech Stack</h3>
 
 <p align="center"><b>Languages • Frontend • Backend • Databases & Infra</b></p>
