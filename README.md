@@ -2,8 +2,6 @@
   <img data-importer="image" height="350" src="https://ik.imagekit.io/hve2f5qxd/ChatGPT%20Image%20Sep%2014,%202026,%2001_23_23%20AM.png"  />
 </div>
 
-<br>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+the+future,+one+line+of+code+at+a+time...;Turning+ideas+into+reality" alt="Quote" />
 </div>
@@ -14,13 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=vigneshrao77&label=VIEWS&color=282a36&style=for-the-badge" alt="Profile Views" />
 </div>
 
-<br>
-
----
-
-<br>
-
-### `$ whoami`
+## `$ whoami`
 
 ```javascript
 const vignesh = {
@@ -35,13 +27,7 @@ const vignesh = {
 };
 ```
 
-<br>
-
----
-
-<br>
-
-<h3>🛠 Tech Stack</h3>
+## 🛠 Tech Stack
 
 <p align="center"><b>Languages • Frontend • Backend • Databases & Infra</b></p>
 
@@ -49,29 +35,15 @@ const vignesh = {
   <img src="https://skillicons.dev/icons?i=cpp,ts,js,html,css,react,threejs,bootstrap,vite,nodejs,express,mongodb,firebase,git,github,vscode,anaconda,linkedin&perline=9" alt="Tech Stack" />
 </div>
 
-<br>
-
----
-
-<br>
+## 📈 GitHub Activity
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=vigneshrao77&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" width= "90%" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=vigneshrao77&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" width="90%" alt="streak graph"  />
 </div>
-
-<br>
-
----
-
-<br>
 
 <div align="center">
   <img data-importer="snake" src="https://raw.githubusercontent.com/vigneshrao77/vigneshrao77/snake-output/snake.svg" alt="Snake animation" />
 </div>
-
-<br>
-
----
 
 <br>
 
@@ -89,12 +61,6 @@ const vignesh = {
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo"  />
   </a>
 </div>
-
-<br>
-
----
-
-<br>
 
 <div data-importer="border">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
