@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+the+future,+one+line+of+code+at+a+time...;Turning+ideas+into+reality" alt="Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+the+future,+one+line+of+code+at+a+time...;Turning+ideas+into+reality" alt="Quote" />
 </div>
 
 <div align="center">
@@ -20,7 +20,7 @@
 
 <br>
 
-<h3 align="center">🛠 Tech Stack</h3>
+<h3>🛠 Tech Stack</h3>
 
 <p align="center"><b>Languages • Frontend • Backend • Databases & Infra</b></p>
 
@@ -35,7 +35,7 @@
 <br>
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=vigneshrao77&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=vigneshrao77&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" width= "90%" alt="streak graph"  />
 </div>
 
 <br>
