@@ -62,10 +62,16 @@ const vignesh = {
   </a>
 </div>
 
-<p align="center"><b>Want to play a game ?</b></p>
+
+
+
+<p align="center">
+  <b>🎮 Want to play a game?</b>
+</p>
+
 <p align="center">
   <a href="https://game-buddy-indol.vercel.app/">
-    <b>🎮 Click Here to Play</b>
+    <img src="https://img.shields.io/badge/🎮_Play_Game-Click_Here-blue?style=for-the-badge" alt="Play Game">
   </a>
 </p>
 
