@@ -71,10 +71,6 @@ const vignesh = {
 
   <h3>🎮 Want to play a game?</h3>
 
-  <p>
-    Take a break and try out our game!
-  </p>
-
   <br>
 
   <a href="https://game-buddy-indol.vercel.app/">
